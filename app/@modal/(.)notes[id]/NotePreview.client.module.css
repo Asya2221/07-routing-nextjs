@@ -66,3 +66,9 @@
     display: inline-block;
     background-color: transparent;
 }
+
+.modalContent {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+}
